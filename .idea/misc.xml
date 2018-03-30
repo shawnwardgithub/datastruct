@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="ejb" url="file://$PROJECT_DIR$/../datasource/ejbs" />
+    <file type="javaeeApplication" url="file://$PROJECT_DIR$/../datasource/ear" />
+    <file type="web" url="file://$PROJECT_DIR$/../datasource/servlets/servlet" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../datasource/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../datasource/ear/pom.xml" />
+        <option value="$PROJECT_DIR$/../datasource/ejbs/pom.xml" />
+        <option value="$PROJECT_DIR$/../datasource/primary-source/pom.xml" />
+        <option value="$PROJECT_DIR$/../datasource/projects/pom.xml" />
+        <option value="$PROJECT_DIR$/../datasource/servlets/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/../datasource/out" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\lijiahe\AppData\Roaming\Subversion</configuration>
+  </component>
+</project>
