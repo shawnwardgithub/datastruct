@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9349aae-d576-4885-8b99-34b53970740e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../datasource/.idea/artifacts/ear_ear.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../datasource/.idea/artifacts/ear_ear_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../datasource/.idea/artifacts/ejbs_ejb.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../datasource/.idea/artifacts/ejbs_ejb_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../datasource/.idea/artifacts/servlet_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../datasource/.idea/artifacts/servlet_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../datasource/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../datasource/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../datasource/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../datasource/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../datasource/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../datasource/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../datasource/datasource.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../datasource/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../datasource/tree/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../datasource/tree/src/main/java/BaseTree/BinaryTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../datasource/tree/src/main/java/BaseTree/TreeNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../datasource/tree/tree.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../datasource/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../datasource/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../datasource/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../datasource/out/" />
     <ignored path="$PROJECT_DIR$/../datasource/target/" />
@@ -61,15 +45,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryTree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BinaryTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../datasource/tree/src/main/java/BaseTree/BinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
+            <state relative-caret-position="-49">
               <caret line="32" column="12" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
               <folding>
                 <element signature="e#142#143#0" expanded="true" />
                 <element signature="e#167#168#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vcs.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../datasource/.idea/vcs.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -85,6 +79,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../datasource" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -100,6 +97,7 @@
         <option value="$PROJECT_DIR$/../datasource/tree/src/main/java/BaseTree/Tree.java" />
         <option value="$PROJECT_DIR$/../datasource/tree/src/main/java/BaseTree/TreeNode.java" />
         <option value="$PROJECT_DIR$/../datasource/tree/src/main/java/BaseTree/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/../datasource/.idea/vcs.xml" />
       </list>
     </option>
   </component>
@@ -727,12 +725,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522396177970</updated>
-      <workItem from="1522396181964" duration="3248000" />
+      <workItem from="1522396181964" duration="3435000" />
     </task>
+    <task id="LOCAL-00001" summary="11">
+      <created>1522399450946</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1522399450946</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3248000" />
+    <option name="totallyTimeSpent" value="3435000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
@@ -779,6 +785,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="11" />
+    <option name="LAST_COMMIT_MESSAGE" value="11" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -788,14 +798,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../datasource/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../datasource/.idea/modules.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -830,12 +832,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../datasource/tree/src/main/java/BaseTree/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
+        <state relative-caret-position="-49">
           <caret line="32" column="12" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
           <folding>
             <element signature="e#142#143#0" expanded="true" />
             <element signature="e#167#168#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../datasource/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../datasource/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
